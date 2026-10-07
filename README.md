@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Lucas
 
-<!--
-**luccvinocur/luccvinocur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería Informática** interesado en el desarrollo de software y en seguir construyendo experiencia práctica.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Estudiante de Ingeniería Informática
+* Actualmente aprendiendo **Python**
+* Aprendiendo **Git y GitHub**
+* Interesado en desarrollo de software y tecnología
+* Construyendo proyectos para seguir mejorando mis habilidades
+
+## Tecnologías
+
+### Actualmente aprendiendo
+
+* Python
+* Git
+* GitHub
+
+### Conocimientos previos
+
+* HTML
+* CSS
+* Excel
+
+## Proyectos
+
+Estoy construyendo proyectos personales para aplicar lo aprendido y desarrollar experiencia práctica.
+
+## Actualmente
+
+> Aprendiendo, construyendo y mejorando un proyecto a la vez.
+
+---
+
+📫 GitHub: [@TU-USUARIO](https://github.com/TU-USUARIO)
