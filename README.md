@@ -33,5 +33,3 @@ Estoy construyendo proyectos personales para aplicar lo aprendido y desarrollar 
 > Aprendiendo, construyendo y mejorando un proyecto a la vez.
 
 ---
-
-📫 GitHub: [@TU-USUARIO](https://github.com/TU-USUARIO)
